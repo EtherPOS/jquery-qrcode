@@ -1,0 +1,9 @@
+{
+  "name": "jquery-qrcode",
+  "description": "Jquery smart package of jQuery QR Code plugin 0.2.",
+  "homepage": "https://github.com/EtherPOS/meteor-jquery-qrcode",
+  "author": "EtherPOS  (http://www.etherpos.com)",
+  "version": "0.2",
+  "git": "https://github.com/EtherPOS/meteor-jquery-qrcode",
+  "packages": {}
+}
