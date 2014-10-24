@@ -1,10 +1,16 @@
 Package.describe({
-  summary: "jQuery QR code plugin - a jQuery plugin for generating QR codes"
+  summary: "jQuery QR code plugin - a jQuery plugin for generating QR codes",
+  // Version number.
+  version: "0.2.1",
+  // Optional.  Default is package directory name.
+  name: "steeve:query-qrcode",
+  // Optional github URL to your source repository.
+  git: "https://github.com/EtherPOS/jquery-qrcode.git",
 });
 
-Package.on_use(function (api) {
+Package.onUse(function (api) {
   api.use('jquery', 'client');
-  api.add_files([
+  api.addFiles([
     'lib/jquery.qrcode-0.2.js',
   ], 'client'
   );
