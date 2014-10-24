@@ -3,7 +3,7 @@ Package.describe({
   // Version number.
   version: "0.2.1",
   // Optional.  Default is package directory name.
-  name: "steeve:query-qrcode",
+  name: "steeve:jquery-qrcode",
   // Optional github URL to your source repository.
   git: "https://github.com/EtherPOS/jquery-qrcode.git",
 });
