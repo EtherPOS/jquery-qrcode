@@ -1,16 +1,13 @@
-meteor-jquery-qrcode
+jquery-qrcode
 ======================
 
-Meteor.js meteorite/atmosphere jquery smart package for creating qrcodes.
+Meteor jquery smart package for creating qrcodes.
+
+    meteor add steeve:jquery-qrcode
 
 By @ [EtherPOS](http://www.etherpos.com/ "EtherPOS")
 
-Get it @ [Meteor JQuery qrcode on Atmosphere](https://atmosphere.meteor.com/package/jquery-qrcode)
-
-Test it @ [Meteor JQuery qrcode Test on Meteor](http://jquery-qrcode-test.meteor.com)
-
-Git test @ [Meteor JQuery qrcode Test on GitHub](https://github.com/EtherPOS/meteor-jquery-qrcode-test)
-
+meteor add steeve:jquery-qrcode
 
 Original jquery plug-in information & authorship
 =================================================

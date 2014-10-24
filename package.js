@@ -1,7 +1,7 @@
 Package.describe({
   summary: "jQuery QR code plugin - a jQuery plugin for generating QR codes",
   // Version number.
-  version: "0.2.1",
+  version: "0.2.2",
   // Optional.  Default is package directory name.
   name: "steeve:jquery-qrcode",
   // Optional github URL to your source repository.
